@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **html,css,Javascript,bootstrap**
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/shubham-chaudhary-0a8a1a166?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCU6eGl%2FnTiKlVJmL2RYzBQ%3D%3D
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shubham-chaudhary-0a8a1a166?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCU6eGl%2FnTiKlVJmL2RYzBQ%3D%3D](https://www.linkedin.com/in/shubham-chaudhary-0a8a1a166?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHYXBjvZmTKe%2BcgjOatHqIw%3D%3D)
 
 - 📫 How to reach me **sc3617378@gmail.com**
 
